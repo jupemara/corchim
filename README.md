@@ -5,9 +5,9 @@ Corchim ([Corne](https://github.com/foostan/crkbd/tree/main) by [foostan@](https
 ## 日本語はこちら
 
 - PCB
-  - [corne-cherry v3](./doc/ja/corne-cherry-v3.md)
+  - [corne-cherry v3](./docs/ja/corne-cherry-v3.md)
 
 ## English version
 
 - PCB
-  - [corne-cherry v3](./doc/en/corne-cherry-v3.md)
+  - [corne-cherry v3](./docs/en/corne-cherry-v3.md)
