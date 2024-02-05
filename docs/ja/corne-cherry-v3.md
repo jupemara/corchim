@@ -1,4 +1,4 @@
-# PCB 準備 for Corne cherry v4
+# PCB 準備 for Corne cherry v3
 
 ## PCB 組み立てに必要なもの
 
