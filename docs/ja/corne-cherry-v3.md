@@ -117,7 +117,7 @@ ref: https://docs.keeb.io/elite-pi-guide
 ### key micro
 
 ```sh
-$ make crkbd:jupemara:dfu
+$ make crkbd:default:dfu
 ```
 
 ref: https://abitkeys.com/keymicro/build.html
