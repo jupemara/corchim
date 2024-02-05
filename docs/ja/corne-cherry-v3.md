@@ -37,8 +37,9 @@
 - Elite-C
 - Elite-Pi
 - key micro
+- Sea-Picro
 
-(各種ファームウェアの焼き方は現在 WIP なので近日中にビルドガイドを更新します)
+上記のうち, key micro と Sea-Picro に関しては MCU 側のはんだ付けなしで動作することを確認しています。
 
 ### MCU 用のピンソケット (コンスルーピン) について
 
@@ -94,4 +95,34 @@ MCU の取り付け方向がオリジナルの Corne とは違うので注意で
 
 ## ファームウェア
 
-(WIP: QMK のコマンドと MCU の組み合わせを掲載する予定です)
+QMK バージョン は 0.23.7 で試してます。0.23.7 における crkbd/rev1 , keymaps/default を変更無しで使用しています。
+
+### Elite-C
+
+```sh
+$ make crkbd:default:dfu
+```
+
+ref: https://github.com/qmk/qmk_firmware/blob/master/docs/flashing.md#make-targets
+
+### Elite-Pi
+
+```sh
+$ qmk flash -c -kb crkbd/rev1 -km default -e CONVERT_TO=elite_pi
+```
+
+ref: https://docs.keeb.io/elite-pi-guide
+
+### key micro
+
+```sh
+$ make crkbd:jupemara:dfu
+```
+
+ref: https://abitkeys.com/keymicro/build.html
+
+### Sea-Picro
+
+```sh
+$ qmk flash -c -kb crkbd/rev1 -km default -e CONVERT_TO=elite_pi
+```
