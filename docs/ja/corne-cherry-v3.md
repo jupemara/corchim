@@ -1,4 +1,4 @@
-# PCB 準備 for Corne cherry v3
+# PCB 準備 for Corne cherry v4
 
 ## PCB 組み立てに必要なもの
 
@@ -48,20 +48,20 @@ USB-C の差込口の関係で, 高さ 2.5mm を推奨としいます。
 
 ### 1. ダイオードとソケットのはんだ付け
 
-![ダイオードとソケットのはんだ付け](../img/pcb-diode-socket.jpg)
+![ダイオードとソケットのはんだ付け](../img/corne-cherry-v3/pcb-diode-socket.jpg)
 
 [ダイオード](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/buildguide_jp.md#%E3%83%80%E3%82%A4%E3%82%AA%E3%83%BC%E3%83%89)と[ソケット](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/buildguide_jp.md#pcb%E3%82%BD%E3%82%B1%E3%83%83%E3%83%88)のはんだ付けは[オリジナルの Corne](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/buildguide_jp.md)と手同じ手順です。
 LED は not supported です。っが、ついていても特に問題ありません (後述します) 。
 
 ### 2. TRRS のはんだ付け
 
-![TRRSのはんだ付け](../img/pcb-diode-socket-trrs.jpg)
+![TRRSのはんだ付け](../img/corne-cherry-v3/pcb-diode-socket-trrs.jpg)
 
 TRRS も同様にオリジナルの Corne と同じ手順です。
 
 ### 3. OLED ピンソケットのはんだ付け
 
-![OLED5.7mmピンソケットのはんだ付け](../img/pcb-diode-socket-trrs-oled.jpg)
+![OLED5.7mmピンソケットのはんだ付け](../img/corne-cherry-v3/pcb-diode-socket-trrs-oled.jpg)
 
 5.7mm のピンソケットと 1.5mm のピンヘッダを同梱しています。
 ですが、オリジナル同梱されている 3.5mm のピンソケットであっても特に問題ないので、どちらを使っていただいても問題ありません。以下は比較画像 (ケースをかぶせるとどちらも大きく違いはありません)
@@ -78,7 +78,7 @@ OLED 側のピンヘッダははんだ付け後、ピンの先をニッパー等
 
 ### 4. リセットスイッチ (optional)
 
-![リセットスイッチを逆向きにつける](../img/pcb-diode-socket-trrs-oled-reset-sw.jpg)
+![リセットスイッチを逆向きにつける](../img/corne-cherry-v3/pcb-diode-socket-trrs-oled-reset-sw.jpg)
 
 オリジナル Corne とは反対向きに (基盤の底側に) リセットスイッチをつけることで Corchim 底側からリセットスイッチを押せるようになります。( ただこちらはなんとでもなると思うので、optional 扱いです )
 
@@ -88,7 +88,7 @@ MCU の取り付け方向がオリジナルの Corne とは違うので注意で
 
 ![MCUピンヘッダ001](../img/mcu-pin-header-001.jpg)
 ![MCUピンヘッダ002](../img/mcu-pin-header-002.jpg)
-![MCU取り付け済み PCB](../img/completed-pcb.jpg)
+![MCU取り付け済み PCB](../img/corne-cherry-v3/completed-pcb.jpg)
 
 ここまでで一旦 PCB は完成です, お疲れ様です!! ケースに取り付けていきましょう!! [ケース編](./corchim-cherry-v3.md)
 
