@@ -125,5 +125,5 @@ ref: https://abitkeys.com/keymicro/build.html
 ### Sea-Picro
 
 ```sh
-$ qmk flash -c -kb crkbd/rev1 -km default -e CONVERT_TO=elite_pi
+$ qmk flash -c -kb crkbd/rev1 -km default -e CONVERT_TO=promicro_rp2040
 ```
