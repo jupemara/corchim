@@ -11,5 +11,5 @@ Corchim ([Corne](https://github.com/foostan/crkbd/tree/main) by [foostan@](https
 ## English version
 
 - Corne cherry v3
-  - [[WIP!!]PCB](./docs/en/corne-cherry-v3.md)
-  - [[WIP!!]Corchim](./docs/en/corne-cherry-v3.md)
+  - [PCB](./docs/en/corne-cherry-v3.md)
+  - [Corchim](./docs/en/corne-cherry-v3.md)
