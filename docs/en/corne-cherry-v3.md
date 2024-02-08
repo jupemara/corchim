@@ -49,7 +49,7 @@ Due to the USB-C port, we recommend a height of 2.5mm.
 
 ![Soldering Diodes and Sockets](../img/corne-cherry-v3/pcb-diode-socket.jpg)
 
-The soldering of [diodes](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/buildguide_jp.md#%E3%83%80%E3%82%A4%E3%82%AA%E3%83%BC%E3%83%89) and [sockets](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/buildguide_jp.md#pcb%E3%82%BD%E3%82%B1%E3%83%83%E3%83%88) follows the same steps as the [original Corne](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/buildguide_jp.md). LEDs are not supported, but having them is not a problem (more on this later).
+The soldering of [diodes](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/buildguide_en.md#diodes) and [sockets](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/buildguide_en.md#switch-sockets) follows the same steps as the [original Corne](https://github.com/foostan/crkbd/blob/main/corne-cherry/doc/v3/buildguide_en.md). LEDs are not supported, but having them is not a problem (more on this later).
 
 ### 2. Soldering the TRRS
 
