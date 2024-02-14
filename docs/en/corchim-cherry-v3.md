@@ -25,12 +25,12 @@ Each left and right case includes:
   - Top body
   - Bottom body
   - Weight
-  - Switch plate
+  - PC plate
 - right
   - Top body
   - Bottom body
   - Weight
-  - Switch plate
+  - PC plate
 
 ### 2. Remove the Case and Unscrew
 
