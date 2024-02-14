@@ -51,7 +51,7 @@ While not necessary, this mitigates the mcu shifting around when unplugging and 
 
 #### 3-b. (optional) When Installing a PCB with LEDs
 
-If using a PCB with pre-installed underglow LEDs, it's recommended to use only one layer of case foam. (Using two layers is also fine, but it might feel a bit too packed.)
+If you already have LEDs installed, it's a single layer of case foam, otherwise the board will feel stiff.
 
 ### 4. Installing the PCB
 
