@@ -12,4 +12,4 @@ Corchim ([Corne](https://github.com/foostan/crkbd/tree/main) by [foostan@](https
 
 - Corne cherry v3
   - [PCB](./docs/en/corne-cherry-v3.md)
-  - [Corchim](./docs/en/corne-cherry-v3.md)
+  - [Corchim](./docs/en/corchim-cherry-v3.md)
