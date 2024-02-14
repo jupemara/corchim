@@ -1,4 +1,4 @@
-# Corchim with Corn Cherry v3
+# Corchim with Corne Cherry v3
 
 ## Procedures
 
@@ -6,18 +6,18 @@
 
 ![Open the carrying case](../img/carrying-case.jpg)
 
-| Name                                                    | Quantity             |
-| ------------------------------------------------------- | -------------------- |
-| Complete set for both left and right cases              | 1 pair               |
-| Case foam (to be placed between the case and the PCB)   | 2 pairs              |
-| Switch foam (to be placed between the PCB and switch plate) | 1 pair           |
-| Switch plate (Polycarbonate)                            | 1 pair               |
-| Gasket (with adhesive)                                  | 1 pair               |
-| Height adjustment foam for MCU                          | 1 pair               |
-| OLED pin socket with 5.7mm height                       | 2 pieces             |
-| OLED pin header with 1.5mm height                       | 2 pieces             |
+| Name                                                         | Quantity                             |
+| ------------------------------------------------------------ | ------------------------------------ |
+| Complete set for both left and right cases                   | 1 pair                               |
+| Case foam (to be placed between the case and the PCB)        | 2 pairs                              |
+| Switch foam (to be placed between the PCB and switch plate)  | 1 pair                               |
+| Switch plate (Polycarbonate)                                 | 1 pair                               |
+| Gasket (with adhesive)                                       | 1 pair                               |
+| Height adjustment foam for MCU                               | 1 pair                               |
+| OLED pin socket with 5.7mm height                            | 2 pieces                             |
+| OLED pin header with 1.5mm height                            | 2 pieces                             |
 | Screws for securing top and bottom of the case: Hex M2 x 8mm | 8 pieces (4 each for left and right) |
-| Screws for securing weight: Hexalobular M3 x 4mm        | 4 pieces (2 each for left and right) |
+| Screws for securing weight: Hexalobular M3 x 4mm             | 4 pieces (2 each for left and right) |
 
 Each left and right case includes:
 
@@ -25,12 +25,12 @@ Each left and right case includes:
   - Top body
   - Bottom body
   - Weight
-  - Switch plate
+  - PC plate
 - right
   - Top body
   - Bottom body
   - Weight
-  - Switch plate
+  - PC plate
 
 ### 2. Remove the Case and Unscrew
 
@@ -46,12 +46,12 @@ Here, also replace the weight screws with the provided black M3 x 4mm screws.
 
 #### 3-a. (optional) Installing the MCU Foam
 
-Normally not necessary, but if the MCU tends to come off due to plugging and unplugging the USB, use this foam.
+While not necessary, this mitigates the mcu shifting around when unplugging and plugging in the USB-C port.
 ![with MCU foam](../img/with-mcu-foam.jpg)
 
 #### 3-b. (optional) When Installing a PCB with LEDs
 
-If using a PCB with pre-installed underglow LEDs, it's recommended to use only one layer of case foam. (Using two layers is also fine, but it might feel a bit too packed.)
+If you already have LEDs installed, it's a single layer of case foam, otherwise the board will feel stiff.
 
 ### 4. Installing the PCB
 
@@ -80,6 +80,7 @@ Lay the switch foam on top of the PCB as shown in the picture.
 ![Laying the switch foam](../img/with-switch-foam.jpg)
 
 Then, lay the switch plate on top. To prevent the switch plate and switch foam from shifting when covering the case, secure the four corners with appropriate key switches.
+This is also a good time to add the OLED.
 
 ![Securing the foam and switch plate with key switches](../img/fixed-with-key-switch.jpg)
 
