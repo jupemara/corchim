@@ -46,7 +46,7 @@ Here, also replace the weight screws with the provided black M3 x 4mm screws.
 
 #### 3-a. (optional) Installing the MCU Foam
 
-Normally not necessary, but if the MCU tends to come off due to plugging and unplugging the USB, use this foam.
+While not necessary, this mitigates the mcu shifting around when unplugging and plugging in the USB-C port.
 ![with MCU foam](../img/with-mcu-foam.jpg)
 
 #### 3-b. (optional) When Installing a PCB with LEDs
@@ -80,6 +80,7 @@ Lay the switch foam on top of the PCB as shown in the picture.
 ![Laying the switch foam](../img/with-switch-foam.jpg)
 
 Then, lay the switch plate on top. To prevent the switch plate and switch foam from shifting when covering the case, secure the four corners with appropriate key switches.
+This is also a good time to add the OLED.
 
 ![Securing the foam and switch plate with key switches](../img/fixed-with-key-switch.jpg)
 
