@@ -6,16 +6,23 @@
 
 ![Open the carrying case](../img/carrying-case.jpg)
 
+| Name                                                        | Quantity |
+| ----------------------------------------------------------- | -------- |
+| Complete set for both left and right cases                  | 1 pair   |
+| Case foam (to be placed between the case and the PCB)       | 2 pairs  |
+| Switch foam (to be placed between the PCB and switch plate) | 1 pair   |
+| Switch plate (Polycarbonate)                                | 1 pair   |
+| Gasket (with adhesive)                                      | 1 pair   |
+| Height adjustment foam for MCU                              | 1 pair   |
+| OLED pin socket with 5.7mm height                           | 2 pieces |
+| OLED pin header with 1.5mm height                           | 2 pieces |
+| Rubber Feet                                                 | 8 pieces |
+
+Only BoB, different screws is used from the factory assembly, so screws are included separately.
+Space Gray uses factory assembled screws.
+
 | Name                                                         | Quantity                             |
 | ------------------------------------------------------------ | ------------------------------------ |
-| Complete set for both left and right cases                   | 1 pair                               |
-| Case foam (to be placed between the case and the PCB)        | 2 pairs                              |
-| Switch foam (to be placed between the PCB and switch plate)  | 1 pair                               |
-| Switch plate (Polycarbonate)                                 | 1 pair                               |
-| Gasket (with adhesive)                                       | 1 pair                               |
-| Height adjustment foam for MCU                               | 1 pair                               |
-| OLED pin socket with 5.7mm height                            | 2 pieces                             |
-| OLED pin header with 1.5mm height                            | 2 pieces                             |
 | Screws for securing top and bottom of the case: Hex M2 x 8mm | 8 pieces (4 each for left and right) |
 | Screws for securing weight: Hexalobular M3 x 4mm             | 4 pieces (2 each for left and right) |
 
@@ -38,7 +45,10 @@ Unscrew the temporarily fixed screws from the factory.
 
 ![Separating the case](../img/separate-top-bottom-case.jpg)
 
-Here, also replace the weight screws with the provided black M3 x 4mm screws.
+#### Only BoB
+
+Replace the weight screws with the provided black M3 x 4mm screws.
+Space Gray is used as is from the factory, so there is no need to unscrew the weights.
 
 ### 3. Installing the Case Foam
 
