@@ -50,6 +50,14 @@ Unscrew the temporarily fixed screws from the factory.
 Replace the weight screws with the provided black M3 x 4mm screws.
 Space Gray is used as is from the factory, so there is no need to unscrew the weights.
 
+#### Wrench
+
+- For Space Gray
+  - Hex wrench 1.27mm (0.05 inch)
+- For BoB
+  - removal: Hex wrench 1.5mm
+  - installation: Hex wrench 1.25mm (0.05 inch) + T8 torx screwdriver (for weight)
+
 ### 3. Installing the Case Foam
 
 ![Installing the case foam](../img/with-case-foam.jpg)
