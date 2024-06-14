@@ -87,7 +87,7 @@ At this time, also attach the OLED supporting foam to fit the OLED recess.
 
 ![Switch plate after attaching gasket](../img/switch-plate-after-gasket.jpg)
 
-The gasket comes in three lengths, so attach them to fit both sides (front and back).
+The gasket comes in four lengths, so attach them to fit both sides (front and back).
 
 ![Numbering of gaskets on the switch foam side](../img/switch-plate-gasket-numbering.png)
 
